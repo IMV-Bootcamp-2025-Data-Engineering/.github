@@ -2,13 +2,6 @@
 
 ![Mgodongf Banner](/profile/assets/banner.png)
 
-<!--
+Data Engineering IMV 2025 merupakan salah satu tema pelatihan yang diselenggarakan oleh IMV Laboratory. Image Processing & Vision Laboratory (IMV Lab) adalah laboratorium penelitian yang berada di bawah naungan kelompok keahlian Pengolahan Sinyal Informasi jurusan Teknik Telekomunikasi di Universitas Telkom. IMV Lab berfokus pada *computer vision* dan kecerdasan buatan, namun berkembang juga pada segala jenis teknologi seperti M*obile Development, Web Development,* hingga *Data Engineering.*
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Pelatihan Data Engineering membahas mengenai pembangunan alur data (data pipeline) berbasis ETL (Extract, Transform, Load) menggunakan Airflow dan PostgreSQL. Data Engineering merupakan fondasi penting dalam sistem analisis data modern. Seorang Data Engineer bertugas memastikan data dari berbagai sumber (misalnya: API, web scraping, database) dapat diambil, dibersihkan, diolah, dan disimpan secara terstruktur dan efisien. Salah satu penerapan praktis adalah membangun alur ETL dari nol, mulai dari pengambilan data secara otomatis menggunakan scraping, pembuatan koneksi antar komponen dengan Airflow, hingga penyimpanan data ke dalam database PostgreSQL.
